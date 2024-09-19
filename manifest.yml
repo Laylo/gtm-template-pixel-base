@@ -1,5 +1,5 @@
 homepage: "https://www.laylo.com"
-documentation: "https://www.laylo.com/documentation"
+documentation: "https://laylo.notion.site/Laylo-Google-Tag-Manager-67854fca3de041e681911123c2177d70"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 20f7f38282f50a0a16a04ec6376dd307b06e7a50
     changeNotes: Initial release.
